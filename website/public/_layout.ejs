@@ -27,16 +27,18 @@
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
 	</head>
 
-	<% var className = (current.source == 'index') ? "homepage" : current.source; %>	
+	<% var className = (current.source == 'index') ? "homepage" : current.source; %>
 	<body class="<%- className %>">
 
 		<!-- Header -->
 		<%- partial("_shared/header") %>
-		
-		<%- yield %>	
+
+		<%- yield %>
 
 		<!-- Footer -->
 		<%- partial("_shared/footer") %>
 
+		<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+		
 	</body>
 </html>
