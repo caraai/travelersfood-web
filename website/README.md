@@ -1,42 +1,34 @@
-## Helios 1.0 by HTML5 UP, modified for Harp
-harp.io | @HarpPlatform
-
-This template has been modified to work with the [@HarpPlatform](http://twitter.com/HarpPlatform) and [@HarpWebServer](http://twitter.com/HarpWebServer), they contain partials and layouts so the code is easier to manage and dry. You can put this template online in seconds with the [Harp Platform](https://www.harp.io), or run it locally with the [Harp WebServer](http://harpjs.com).
-
-[View a live demo](http://helios.harp.io) 
-
-This beautiful template is created by AJ at HTML5 UP, license and attribution is below.
-
-### Original Readme and License
-html5up.net | @n33co
+Future Imperfect by HTML5 UP
+html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-This is Helios, a brand new site template for HTML5 UP. It's clean, modern, and designed
-to take advantage of larger (well, wider) displays while still being capable of gracefully
-scaling down to fit all manner of smaller ones.
-	
-Demo images* courtesy of Michael Domaradzki, an awesome photographer I know over at
-deviantART. Check out his portfolio here:
+It's been a long time coming, but I've finally gotten around to creating a brand new
+blog-style template (and the first since Striped, which came out waaaaay back in 2013).
+Anyway, Future Imperfect features a clean, expansive layout, a toggleable search box,
+and -- because pretty much all modern browsers can use it now -- a whole lot of flexbox
+action. Enjoy it :)
 
-http://mdomaradzki.deviantart.com/
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-* Not included with this download (replaced with generic placeholder images). Please
-don't use his work without his permission.
+(* = not included)
 
 AJ
-n33.co @n33co dribbble.com/n33
+aj@lkn.io | @ajlkn
 
-Credits
-- Original Source: html5up.net
-- Images (Demo Only)
-	- Michael Domaradzki (http://mdomaradzki.deviantart.com/)	
-- Icons
-	- Font Awesome (http://fortawesome.github.com/Font-Awesome/)
-- Other
-	- jQuery (jquery.com)
-	- html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-	- Dropotron (n33.co)
-	- skel.min.js + skel-panels.min.js (n33.co)
-	- CSS3 Pie (css3pie.com)
-	- background-size-polyfill (github.com/louisremi/background-size-polyfill)
+
+Credits:
+
+	Demo Images:
+		Unsplash (unsplash.com)
+
+	Icons:
+		Font Awesome (fortawesome.github.com/Font-Awesome)
+
+	Other:
+		jQuery (jquery.com)
+		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+		Misc. Sass functions (@HugoGiraudel)
+		Respond.js (j.mp/respondjs)
+		Skel (skel.io)

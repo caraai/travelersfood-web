@@ -1,44 +1,50 @@
 <!DOCTYPE HTML>
 <!--
-	Helios 1.0 by HTML5 UP
-	html5up.net | @n33co
+	Future Imperfect by HTML5 UP
+	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
 	<head>
 		<title>Traveler's Food Around The World | One meal at a time</title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="p:domain_verify" content="80e109c1b634f9bac6d4dfaeed8663ca"/>
-		<meta name="description" content="Blog about street food around the world" />
-		<meta name="keywords" content="blog, foodie, gourmand, travel, street food, food, snacks, mexico, latinamerica, tasty food" />
-		<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600" rel="stylesheet" type="text/css" />
-		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
-		<script src="js/jquery.min.js"></script>
-		<script src="js/jquery.dropotron.js"></script>
-		<script src="js/skel.min.js"></script>
-		<script src="js/skel-panels.min.js"></script>
-		<script src="js/init.js"></script>
-		<noscript>
-			<link rel="stylesheet" href="css/skel-noscript.css" />
-			<link rel="stylesheet" href="css/style.css" />
-			<link rel="stylesheet" href="css/style-desktop.css" />
-			<link rel="stylesheet" href="css/style-noscript.css" />
-		</noscript>
-		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 	</head>
+	<body>
 
-	<% var className = (current.source == 'index') ? "homepage" : current.source; %>
-	<body class="<%- className %>">
+		<!-- Wrapper -->
+			<div id="wrapper">
 
-		<!-- Header -->
-		<%- partial("_shared/header") %>
+				<!-- Header -->
+				<%- partial("_shared/header") %>
 
-		<%- yield %>
+				<!-- Main -->
+				<div id="main">
 
-		<!-- Footer -->
-		<%- partial("_shared/footer") %>
+					<%- yield %>
 
-		<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-		
+					<!-- Footer -->
+					<%- partial("_shared/footer") %>
+
+				</div>
+
+				<!-- Sidebar -->
+				<%- partial("_shared/sidebar") %>
+
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+			<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 	</body>
 </html>
