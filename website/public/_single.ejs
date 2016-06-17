@@ -1,0 +1,77 @@
+<!DOCTYPE HTML>
+<!--
+	Future Imperfect by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Traveler's Food Around The World | One meal at a time</title>
+		<!-- metatags -->
+		<meta charset="utf-8" />
+		<meta name="description" content="Blog de comida casual para viajeros" />
+		<meta name="keywords" content="viajes, turismo, comida casual, blog, consejos, tips, recomendaciones, destinos, vacaciones">
+		<meta name="author" content="Hugo Guerrero">
+		<!-- opengraph -->
+		<meta property="og:url" content="http://www.travelersfood.com">
+		<meta property="og:title" content="Traveler's Food Around the World">
+		<meta property="og:image" content="http://www.travelersfood.com/images/starthere01.jpg">
+		<meta property="og:type" content="website">
+		<meta property="og:description" content="Blog de comida casual para viajeros">
+		<meta property="og:locale" content="es_ES" />
+		<meta property="og:locale:alternate" content="en_US" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="/assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="/assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
+		<style>
+			#fof {display:block; width:100%; padding:150px 0; line-height:1.6em; text-align:center;}
+			#fof .hgroup{display:block; width:80%; margin:0 auto; padding:0;}
+			#fof .hgroup h1, #fof .hgroup h2{margin:0 0 0 40px; padding:0; float:left; text-transform:uppercase;}
+			#fof .hgroup h1{margin-top:-90px; font-size:200px;}
+			#fof .hgroup h2{font-size:60px;}
+			#fof .hgroup h2 span{display:block; font-size:30px;}
+			#fof p{margin:25px 0 0 0; padding:0; font-size:16px;}
+			#fof p:first-child{margin-top:0;}
+		</style>
+	</head>
+	<body>
+
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.6";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+				<%- partial("_shared/header") %>
+
+				<!-- Main -->
+				<div id="main">
+
+					<%- yield %>
+
+					<!-- Footer -->
+					<%- partial("_shared/footer") %>
+
+				</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="/assets/js/jquery.min.js"></script>
+			<script src="/assets/js/skel.min.js"></script>
+			<script src="/assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="/assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="/assets/js/main.js"></script>
+			<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+	</body>
+</html>
