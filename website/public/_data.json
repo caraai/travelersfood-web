@@ -2,5 +2,11 @@
   "404": {
     "layout": "_single",
     "title": "404"
+  },
+  "rss": {
+    "layout": false
+  },
+  "sitemap": {
+    "layout": false
   }
 }

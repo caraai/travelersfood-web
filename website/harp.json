@@ -1,3 +1,16 @@
 {
-	"domains":[]
+  "domains": [""],
+  "globals": {
+    "site_title": "Traveler's Food Around the World",
+    "twitter": "hguerreroo",
+    "site_url": "http://www.travelersfood.com",
+    "disqus": {
+      "enabled": false,
+      "shortname": ""
+    },
+    "sitemap": {
+      "enabled": true,
+      "changefreq": "daily"
+    }
+  }
 }
