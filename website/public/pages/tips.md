@@ -1,0 +1,1 @@
+Siempre que estes preparando un viaje, en el curso de uno, o regresando a casa, es importante contar con informacion util que pueda hace mas placentera tu experiencia. Con el tiempo hemos ido acumulando experiencias buenas y malas, que al compartirlas con otros viajeros, nos ayuda que alguien mas pueda evitarse dificultades y distrutar mas de su aventura.

@@ -1,0 +1,3 @@
+¿Acaso existe algo mas fascinante que comer? ¿Que me dicen de probar nuevos platillos? Eso es lo que hacemos en Traveler's Food. Recorremos el mundo con la premisa de poder probar la mas deliciosa comida. Sin embargo, tratamos de alejarnos de los clasicos restaurantes de guia turistica para adentrarnos en la cultura y el corazon gastronomico de la ciudad, pais o cultura que estemos visitando.
+
+En este sitio podras encontrar desde informacion relacionada con la preparacion de tu viaje, pasando por los consejos y recomendaciones clasicas durante el viaje, hasta indicaciones de como encontrar esos lugares secretos que volveran tus vacaciones un recuerdo inborrable. Acompañanos a conocer el contenido del sitio y las secciones mas interesantes del mismo.
