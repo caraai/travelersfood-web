@@ -1,4 +1,11 @@
 {
+  "authors": {
+    "hguerrero": {
+      "author": "hguerrero",
+      "name": "Hugo Guerrero",
+      "avatar": "hguerrero.jpg"
+    }
+  },
   "404": {
     "layout": "_single",
     "title": "404"

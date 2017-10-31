@@ -1,3 +1,9 @@
+<% function excerpt(content) {
+    if(-1 == content.indexOf("<!-- more -->")) return content;
+    else return content.split("<!-- more -->")[0]; 
+  } 
+%>
+
 <% for(var slug in public.posts._data){ %>
     <!-- Post -->
     <article class="post">
@@ -14,14 +20,14 @@
             </div>
             <div class="meta">
                 <time class="published" datetime="<%= public.posts._data[slug].datetime %>">Junio 10, 2016</time>
-                <%- partial("_authors/" + public.posts._data[slug].author ) %>
+                <%- partial("posts/_authors/_layout.ejs", public._data.authors["hguerrero"]) %>
             </div>
         </header>
         <a href="#" class="image featured">
-            <img src="/images/<%= public.posts._data[slug].ft_image %>" alt="" />
+            <img src="/images/posts/<%= public.posts._data[slug].ft_image %>" alt="" />
         </a>
         <p>
-            <%= public.posts._data[slug].abstract %>
+            <%- excerpt(partial("/posts/" + slug)) %>
         </p>
         <footer>
             <ul class="actions">
