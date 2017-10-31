@@ -14,21 +14,5 @@
     "author": "hguerrero",
     "datetime": "2016-06-10",
     "ft_image": "/mistura/mistura.jpg"
-  },
-    "hello-world": {
-    "title": "Hello World",
-    "header": "Lorem ipsum Sunt occaecat exercitation quis voluptate tempor",
-    "category": "general",
-    "author": "hguerrero",
-    "datetime": "2016-06-10",
-    "ft_image": "pic01.jpg"
-  },
-  "hello-markdown": {
-    "title": "Markdown Post",
-    "header": "This is an example of a post created using markdow",
-    "category": "destinos",
-    "author": "hguerrero",
-    "datetime": "2016-06-10",
-    "ft_image": "pic02.jpg"
   }
 }
