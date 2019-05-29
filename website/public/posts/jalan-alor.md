@@ -1,4 +1,4 @@
-Este es un mercado de comida que se pone en la calle de Alor (Jalan significa calle en malayo).
+This is a food market in Alor Street (Jalan means street in Malaya).
 
 <!-- more -->
 

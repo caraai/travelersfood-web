@@ -5,7 +5,7 @@
       <a href="/" class="logo"><img src="/images/logo.jpg" alt="" /></a>
       <header>
         <h2>Traveler's Food Around The World</h2>
-        <p>Blog de comida casual para viajeros</p>
+        <p> Street food blog for travelers</p>
       </header>
       <ul class="icons">
         <li><a href="http://www.twitter.com/travelersfoodmx" class="fa-twitter"><span class="label">Twitter</span></a></li>
@@ -23,7 +23,7 @@
         <!-- Mini Post -->
           <article class="mini-post">
             <header>
-              <h3><a href="/pages/tips">Tips de Viaje</a></h3>
+              <h3><a href="/pages/tips">Travel Tips</a></h3>
               <time class="published" datetime="2015-10-20">October 20, 2015</time>
               <a href="/pages/about" class="author"><img src="/images/authors/hguerrero.jpg" alt="" /></a>
             </header>
@@ -33,7 +33,7 @@
         <!-- Mini Post -->
           <article class="mini-post">
             <header>
-              <h3><a href="/pages/categories">Destinos</a></h3>
+              <h3><a href="/pages/categories">Destinations</a></h3>
               <time class="published" datetime="2015-10-19">October 19, 2015</time>
               <a href="/pages/about" class="author"><img src="/images/authors/hguerrero.jpg" alt="" /></a>
             </header>
@@ -45,13 +45,13 @@
 
   <!-- Posts List -->
     <section>
-      <ul class="posts">  
+      <ul class="posts">
         <% for(var slug in public.posts._data){ %>
           <li>
             <article>
               <header>
                 <h3><a href="/posts/<%= slug %>"><%= public.posts._data[slug].title %></a></h3>
-                <time class="published" datetime="2015-10-20">October 20, 2015</time>
+                <time class="published" datetime="2015-10-20">October 20th, 2015</time>
               </header>
               <a href="/posts/<%= slug %>" class="image"><img src="/images/posts/<%= public.posts._data[slug].ft_image %>" alt="" /></a>
             </article>
@@ -79,12 +79,12 @@
 
   <!-- About -->
     <section class="blurb">
-      <h2>Acerca de Traveler's Food</h2>
+      <h2>About Traveler's Food</h2>
       <p>
-        Aqui puedes revisar informacion a detalle de cada uno de ellos y algunas formas de ponerte en contacto con ellos para solicitar informacion, tips o simplemente para buscar gente con el mismo entusiasmo y pasion por descubrir el mundo que se encuentra detras de la comida en cada rincon del mundo.
+        Here you can review detailed information of each one and how to contact them to ask information, tips or just to search people with the same enthusiasm and passion for discover the world behind the food in every corner of the world.
       </p>
       <ul class="actions">
-        <li><a href="/pages/about" class="button">Leer mas...</a></li>
+        <li><a href="/pages/about" class="button">More...</a></li>
       </ul>
       <a class="twitter-follow-button" data-show-count="false" href="https://twitter.com/travelersfoodmx" data-size="large">Follow @TravelersFoodMx</a>
     </section>

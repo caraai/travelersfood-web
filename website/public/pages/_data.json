@@ -1,22 +1,22 @@
 {
   "about": {
-    "title": "¿Quienes son los viajeros detras de Traveler's Food?",
+    "title": " Who are the travelers behind Traveler's Food?",
     "ft_image": "",
-    "abstract": "Lo mas importante del contenido generado en este sitio proviene de las experiencias de sus viajeros"
+    "abstract": "The most important about the content generated in this site comes from the experiences of its travelers"
   },
   "categories": {
-    "title": "Destinos",
+    "title": "Destinations",
     "ft_image": "categories01.jpg",
-    "abstract": "Toda la informacion, organizada por destinos"
+    "abstract": "All the information organized by destinations"
   },
   "tips": {
-    "title": "Tips de Viaje",
+    "title": "Travel Tips",
     "ft_image": "tips01.jpg",
-    "abstract": "Siempre es bueno contar con trucos bajo la manga"
+    "abstract": "It is always nice to have some tricks up your sleeve"
   },
   "starthere": {
-    "title": "¡Bienvenido a la comida del mundo!",
+    "title": "Welcome to the food of the world!",
     "ft_image": "starthere01.jpg",
-    "abstract": "¡Estas a punto de iniciar tu ruta gastronomica alrededor de mundo!"
+    "abstract": " You are starting your gastronomic route around the world!"
   }
 }

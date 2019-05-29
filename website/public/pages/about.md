@@ -1,11 +1,11 @@
 <p>
-	Aqui puedes revisar informacion a detalle de cada uno de ellos y algunas formas de ponerte en contacto con ellos para solicitar informacion, tips o simplemente para buscar gente con el mismo entusiasmo y pasion por descubrir el mundo que se encuentra detras de la comida en cada rincon del mundo.
+   Here you can review detailed information of each and some ways to contact and ask information, tips, or just to find people with the same enthusiasm and passion for discover the world behind the food at every corner of the world.
 </p>
 <p>
-	De antemano agradecemos tu visita y esperamos poderte encontrar en el camino!
+	Thanks in advance for your visit, we hope to find you on the way.
 </p>
 <p>
-	Sinceramente,
+	Sincerly,
 </p>
 <p>
 	Traveler's Food
@@ -23,10 +23,10 @@
 		</span>
 	</p>
 	<p>
-		Mi nombre es Hugo y practicamente he viajado toda mi vida. Nacido en la Ciudad de Mexico, con solo unos meses de vida, mis padres, quienes me heredaron el gen viajero, me han alentado a recorrer el mundo; ya sea en su compañia, la de mi esposa, compañeros de trabajo o por mi mismo. De profesion ingeniero en sistemas, mi principal hobby es de viajar y disfrutar la comida que pueden ofrecer esos viajes.
+		My name is Hugo and I have traveled almost all my life. I was born in Mexico City, and started my traveler life since I was a few months old. My parents encouraged me to travel over the world, with their company, or my wife’s, or colleagues’, or just myself. I am a software engineer, my greatest hobby is traveling and enjoy the food that offer those trips.
 	</p>
 	<p>
-		Me considero a mi mismo un gourmand y no gourment, ya que para mi, es una delicia tanto la comida 3 estrellas michelin como los tacos de la esquina. La mayor parte de mis aportaciones estan enfocadas a la Ciudad de Mexico, donde actualmente vivo, pero no estan limitadas a esta ciudad. Afortundamente, he tenido la fortunda de probar comida informal en casi todos los continentes, por tanto podran ver aportaciones de todos esos lugares.
+		I have considered myself as a gourmand and nor a gourment, because for me it is a delight as the 3 Michelin stars as the street food. Most of my contributions are from Mexico City, where I currently live, but are not limited. I was fortunate to try street food in almost all the continents, so, you will find contributions of these places.
 	</p>
 	<p>
 		<a class="twitter-follow-button" data-show-count="false" data-size="large" href="https://twitter.com/hguerreroo"> Follow @hguerreroo</a>

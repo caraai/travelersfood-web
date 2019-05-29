@@ -1,4 +1,4 @@
-Mistura es el paraiso para aquellos que gusta de la gastronomia peruana. Reune en un solo lugar por un par d dias, la cocinas de diferentes regiones del Peru. 
+Mistura is paradise for who love peruvian food. Cuisines of different regions of Peru are gathered in the same places for a few days .
 
 <!-- more -->
 
